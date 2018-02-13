@@ -1,0 +1,6 @@
+c:\users\elektro.ir_r06\documents\visual studio 2017\Projects\OpačićJanSystemIO\OpačićJanSystemIO\bin\Debug\OpačićJanSystemIO.exe.config
+c:\users\elektro.ir_r06\documents\visual studio 2017\Projects\OpačićJanSystemIO\OpačićJanSystemIO\bin\Debug\OpačićJanSystemIO.exe
+c:\users\elektro.ir_r06\documents\visual studio 2017\Projects\OpačićJanSystemIO\OpačićJanSystemIO\bin\Debug\OpačićJanSystemIO.pdb
+c:\users\elektro.ir_r06\documents\visual studio 2017\Projects\OpačićJanSystemIO\OpačićJanSystemIO\obj\Debug\OpačićJanSystemIO.csprojResolveAssemblyReference.cache
+c:\users\elektro.ir_r06\documents\visual studio 2017\Projects\OpačićJanSystemIO\OpačićJanSystemIO\obj\Debug\OpačićJanSystemIO.exe
+c:\users\elektro.ir_r06\documents\visual studio 2017\Projects\OpačićJanSystemIO\OpačićJanSystemIO\obj\Debug\OpačićJanSystemIO.pdb
